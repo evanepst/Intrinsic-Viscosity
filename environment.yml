@@ -7,7 +7,7 @@ dependencies:
   - math
   - matplotlib
   - warning
-  - sklearn
+  - sklearn==0.21.3
   - random
   - itertools
   - scipy
