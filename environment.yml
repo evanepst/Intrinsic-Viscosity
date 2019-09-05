@@ -4,11 +4,11 @@ channels:
 dependencies:
   - numpy
   - pandas
-  - math
+  - math==3.7.4
   - matplotlib
-  - warning
+  - warning==2.7.16
   - sklearn==0.21.3
-  - random
-  - itertools
+  - random==3.3.7
+  - itertools==3.3.0
   - scipy
   - prettytable
