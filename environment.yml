@@ -1,0 +1,14 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - math
+  - matplotlib
+  - warning
+  - sklearn
+  - random
+  - itertools
+  - scipy
+  - prettytable
